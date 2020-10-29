@@ -1,6 +1,6 @@
 # Anomaly-Detection
 
-We use the [LHC Olympics 2020](https://lhco2020.github.io/homepage/) dataset.
+Dataset: [LHC Olympics 2020](https://lhco2020.github.io/homepage/)
 
 ## Dependencies
 - numpy
