@@ -49,7 +49,7 @@ start_evt = 000000
 total_size = 400000
 batch_size = 5000
 iters = total_size//batch_size
-fin_name = "../data/events_LHCO2020_BlackBox3.h5"
+fin_name = "../../data/events_LHCO2020_BlackBox3.h5"
 fout_name = "../data/events_train_cwbh_blackbox3.h5"
 
 

@@ -25,7 +25,7 @@ def generator(filename, chunk_size=1000,total_size=1100000, start=0):
 total_size = 1000000
 batch_size = 5000
 iters = total_size//batch_size
-fin_name = "../data/events_LHCO2020_BlackBox1.h5"
+fin_name = "../../data/events_LHCO2020_BlackBox1.h5"
 fout_name = "../data/test.h5"
 npix = 40
 img_width = 1.4
