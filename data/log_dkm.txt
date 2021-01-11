@@ -1,1 +1,0 @@
-Namespace(RD=True, batch_size=1024, box=1, data_dir='../h5', decay_rate=0.5, decay_step=1000000, gpu=1, learning_rate=0.01, log_dir='../../Anomaly-Detection/data', max_dim=2, max_epoch=100, min='loss', model='gapnet_seg', momentum=0.9, n_clusters=100, nbatches=-1, ncat=21, nfeat=7, nglob=4, num_point=100, optimizer='adam', output_dir='train_results', wd=0.0)
