@@ -1,7 +1,7 @@
 import pandas as pd
 tot_size=1100000
 chunk = tot_size * .1
-filepath = 'data\events_anomalydetection.h5'
+filepath = 'zenodo-data\events_anomalydetection.h5'
 def generator(filename, chunksize= chunk,total_size = tot_size):
     i = 0
     while True:
